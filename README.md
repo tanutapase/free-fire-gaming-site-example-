@@ -1,5 +1,5 @@
 🔫 Free Fire Gaming Project
-Welcome to my Free Fire Gaming Project! 🎮🔥
+Welcome to my Free Fire Gaming Project! 🎮🔥   --note--(mail me for his site code it just cost 1500rs)
 This repository features exciting content related to Garena Free Fire, including gameplay highlights, tips & tricks, custom scripts, and more!
 
 💡 What's Inside:
@@ -13,5 +13,4 @@ This repository features exciting content related to Garena Free Fire, including
 
 🎯 Optional: Auto-script (for educational/demo purposes only)
 
-🚀 Getting Started:
-Clone the repo and explore the files. Feel free to use or modify for your own Free Fire content, just make sure to give credit!
+🚀 Getting Started: Site Link : -------------  { https://freefiregamingdemosite.netlify.app/ }
